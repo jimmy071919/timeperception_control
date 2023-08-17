@@ -1,0 +1,74 @@
+4.7621 	WARNING 	Font Manager failed to load file C:\Users\jimmy\AppData\Local\Microsoft\Windows\Fonts\華康超特黑體(P).ttc
+4.7881 	WARNING 	Font Manager failed to load file C:\Users\jimmy\AppData\Local\Microsoft\Windows\Fonts\文鼎勘亭.TTF
+4.7946 	WARNING 	Font Manager failed to load file C:\Users\jimmy\AppData\Local\Microsoft\Windows\Fonts\華康超特圓體(P).ttc
+4.8265 	WARNING 	Font Manager failed to load file C:\Users\jimmy\AppData\Local\Microsoft\Windows\Fonts\文鼎花瓣體.TTF
+4.8483 	WARNING 	Font Manager failed to load file C:\Users\jimmy\AppData\Local\Microsoft\Windows\Fonts\文鼎粗行楷.TTF
+4.8676 	WARNING 	Font Manager failed to load file C:\Users\jimmy\AppData\Local\Microsoft\Windows\Fonts\文鼎海報體.TTF
+4.8820 	WARNING 	Font Manager failed to load file C:\Users\jimmy\AppData\Local\Microsoft\Windows\Fonts\複製 -DFFN.TTC
+4.8880 	WARNING 	Font Manager failed to load file C:\Users\jimmy\AppData\Local\Microsoft\Windows\Fonts\文鼎新藝體.TTF
+4.8971 	WARNING 	Font Manager failed to load file C:\Users\jimmy\AppData\Local\Microsoft\Windows\Fonts\華康童童體(P).TTC
+4.9050 	WARNING 	Font Manager failed to load file C:\Users\jimmy\AppData\Local\Microsoft\Windows\Fonts\文鼎古印體.TTF
+4.9541 	WARNING 	Font Manager failed to load file C:\Users\jimmy\AppData\Local\Microsoft\Windows\Fonts\複製 -DFFN_0.TTC
+4.9747 	WARNING 	Font Manager failed to load file C:\Users\jimmy\AppData\Local\Microsoft\Windows\Fonts\wp010-08王漢宗中楷體注音.ttf
+5.0350 	WARNING 	Font Manager failed to load file C:\Users\jimmy\AppData\Local\Microsoft\Windows\Fonts\wp010-05王漢宗中明體注音.ttf
+5.0460 	WARNING 	Font Manager failed to load file C:\Users\jimmy\AppData\Local\Microsoft\Windows\Fonts\華康超特明體(P).ttc
+5.0991 	WARNING 	Font Manager failed to load file C:\Users\jimmy\AppData\Local\Microsoft\Windows\Fonts\華康娃娃體.TTC
+5.6246 	WARNING 	Font Manager failed to load file C:\Users\jimmy\AppData\Local\Microsoft\Windows\Fonts\華康超特黑體(P).ttc
+5.6513 	WARNING 	Font Manager failed to load file C:\Users\jimmy\AppData\Local\Microsoft\Windows\Fonts\文鼎勘亭.TTF
+5.6567 	WARNING 	Font Manager failed to load file C:\Users\jimmy\AppData\Local\Microsoft\Windows\Fonts\華康超特圓體(P).ttc
+5.6953 	WARNING 	Font Manager failed to load file C:\Users\jimmy\AppData\Local\Microsoft\Windows\Fonts\文鼎花瓣體.TTF
+5.7166 	WARNING 	Font Manager failed to load file C:\Users\jimmy\AppData\Local\Microsoft\Windows\Fonts\文鼎粗行楷.TTF
+5.7327 	WARNING 	Font Manager failed to load file C:\Users\jimmy\AppData\Local\Microsoft\Windows\Fonts\文鼎海報體.TTF
+5.7477 	WARNING 	Font Manager failed to load file C:\Users\jimmy\AppData\Local\Microsoft\Windows\Fonts\複製 -DFFN.TTC
+5.7534 	WARNING 	Font Manager failed to load file C:\Users\jimmy\AppData\Local\Microsoft\Windows\Fonts\文鼎新藝體.TTF
+5.7618 	WARNING 	Font Manager failed to load file C:\Users\jimmy\AppData\Local\Microsoft\Windows\Fonts\華康童童體(P).TTC
+5.7673 	WARNING 	Font Manager failed to load file C:\Users\jimmy\AppData\Local\Microsoft\Windows\Fonts\文鼎古印體.TTF
+5.8048 	WARNING 	Font Manager failed to load file C:\Users\jimmy\AppData\Local\Microsoft\Windows\Fonts\複製 -DFFN_0.TTC
+5.8231 	WARNING 	Font Manager failed to load file C:\Users\jimmy\AppData\Local\Microsoft\Windows\Fonts\wp010-08王漢宗中楷體注音.ttf
+5.8842 	WARNING 	Font Manager failed to load file C:\Users\jimmy\AppData\Local\Microsoft\Windows\Fonts\wp010-05王漢宗中明體注音.ttf
+5.8942 	WARNING 	Font Manager failed to load file C:\Users\jimmy\AppData\Local\Microsoft\Windows\Fonts\華康超特明體(P).ttc
+5.9633 	WARNING 	Font Manager failed to load file C:\Users\jimmy\AppData\Local\Microsoft\Windows\Fonts\華康娃娃體.TTC
+10.7245 	WARNING 	User requested fullscreen with size [1536  864], but screen is actually [2736, 1824]. Using actual size
+13.0824 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002323C2F5D30>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000002323E381A30>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([2736, 1824]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+13.0826 	EXP 	window1: mouseVisible = True
+13.0829 	EXP 	window1: mouseVisible = False
+13.0829 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+13.0830 	EXP 	window1: recordFrameIntervals = False
+13.2481 	EXP 	window1: recordFrameIntervals = True
+13.4327 	EXP 	Screen (0) actual frame rate measured at 59.72Hz
+13.4328 	EXP 	window1: recordFrameIntervals = False
+17.0244 	EXP 	Created textreproductionstart = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textreproductionstart', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.1448 	EXP 	Created textWelcomeMessage = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textWelcomeMessage', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='歡迎來到本次的實驗\n\n請按"空白鍵"開始實驗', units='height', win=Window(...), wrapWidth=1)
+17.1851 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='練習階段結束\n\n準備好請按"空白鍵"開始正式階段', units='height', win=Window(...), wrapWidth=1)
+17.1914 	EXP 	Created textblank1000 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textblank1000', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+17.6319 	EXP 	Sound sound_1 set volume 1.000
+17.6585 	EXP 	Created emopic = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='emopic', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), texRes=128.0, units='height', win=Window(...))
+17.6593 	EXP 	Created textreproductionstart = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textreproductionstart', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.7020 	EXP 	Created textrest = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textrest', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='休息時間\n\n時間結束會自動進入下一題', units='height', win=Window(...), wrapWidth=1)
+17.7155 	EXP 	Created textready = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textready', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='即將進入下一題', units='height', win=Window(...), wrapWidth=1)
+17.7174 	EXP 	Sound sound_2 set volume 1.000
+17.7434 	EXP 	Created textEndMessage = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textEndMessage', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='本次實驗到此結束\n\n感謝您的參與', units='height', win=Window(...), wrapWidth=1)
+17.8132 	EXP 	textreproductionstart: height = 0.05
+17.8132 	EXP 	textreproductionstart: height = 0.05
+17.8132 	EXP 	textreproductionstart: height = 0.05
+17.8132 	EXP 	textreproductionstart: text = '情緒估計作業\n\n請填寫SAM量表'
+17.8132 	EXP 	textreproductionstart: autoDraw = True
+20.6868 	EXP 	textreproductionstart: autoDraw = False
+20.6868 	EXP 	textWelcomeMessage: autoDraw = True
+20.7457 	DATA 	KeyPress:  
+21.7915 	DATA 	KeyPress:  
+21.7958 	EXP 	textWelcomeMessage: autoDraw = False
+21.7958 	EXP 	text: autoDraw = True
+33.0344 	EXP 	Imported pic_condition.xlsx as conditions, 20 conditions, 2 params
+33.0357 	EXP 	Created sequence: sequential, trialTypes=20, nReps=1, seed=None
+33.0361 	EXP 	New trial (rep=0, index=0): {'emo_pic': 'emo_pic\\positive_high_8370.jpg', 'duration': 3}
+33.0450 	EXP 	Sound sound_1 started
+33.0438 	EXP 	text: autoDraw = False
+33.0438 	EXP 	textblank1000: autoDraw = True
+33.0652 	DATA 	KeyPress:  
+33.5928 	EXP 	Sound sound_1 reached end of file
+34.1309 	EXP 	textblank1000: autoDraw = False
+34.1309 	EXP 	emopic: image = 'emo_pic\\positive_high_8370.jpg'
+34.1309 	EXP 	emopic: autoDraw = True
+35.4582 	DATA 	Keypress: escape
+36.3849 	EXP 	window1: mouseVisible = True
